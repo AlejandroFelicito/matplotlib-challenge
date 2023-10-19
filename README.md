@@ -88,4 +88,5 @@ Your summary statistics should include:
 * The correlation coefficient and linear regression model are calculated for mouse weight and average tumor volume for the Capomulin regimen. (10 points)
 
 ## Credits 
-Received comments and guidance from Learning Assistant 
+* Received comments and guidance from Instructor, Teaching Assistant 
+* Used stackoverflow and module documentation for specific details
